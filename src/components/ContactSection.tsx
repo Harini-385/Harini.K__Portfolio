@@ -2,10 +2,10 @@ import { motion } from "framer-motion";
 import { Mail, Phone, Linkedin, Github } from "lucide-react";
 
 const contactItems = [
-  { icon: Mail, label: "Email", value: "harini.k@example.com", href: "mailto:harini.k@example.com" },
-  { icon: Phone, label: "Phone", value: "+91 XXXXX XXXXX", href: "tel:+91XXXXXXXXXX" },
-  { icon: Linkedin, label: "LinkedIn", value: "linkedin.com/in/harini-k", href: "https://linkedin.com" },
-  { icon: Github, label: "GitHub", value: "github.com/harini-k", href: "https://github.com" },
+  { icon: Mail, label: "Email", value: "harinigkram@gmail.com", href: "mailto:harinigkram@gmail.com" },
+  { icon: Phone, label: "Phone", value: "+91 6374347247", href: "tel:+916374347247" },
+  { icon: Linkedin, label: "LinkedIn", value: "linkedin.com/in/harini-k-8246a5295", href: "https://linkedin.com/in/harini-k-8246a5295" },
+  { icon: Github, label: "GitHub", value: "github.com/Harini-385", href: "https://github.com/Harini-385" },
 ];
 
 const ContactSection = () => {
