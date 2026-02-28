@@ -13,9 +13,8 @@ const HeroSection = () => {
           transition={{ duration: 0.7 }}
           className="max-w-2xl"
         >
-          <p className="text-primary font-semibold tracking-wider uppercase text-sm mb-4">Welcome to my portfolio</p>
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold leading-tight mb-6">
-            Hi! I Am{" "}
+            I Am{" "}
             <span className="text-gradient">Harini K</span>
           </h1>
           <p className="text-lg text-muted-foreground mb-4 font-medium">
